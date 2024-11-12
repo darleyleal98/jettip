@@ -3,7 +3,6 @@
   
 ### <li> Linguagem do projeto: Kotlin, com o Jetpack Composable🚀🚀 </li>
 
-### <li> Outras tecnologias utilizadas: </li>
 
 Criei um aplicativo que permite calcular a divisão de uma conta. Você pode inserir o valor total, a quantidade de pessoas que irão compartilhar a conta e a porcentagem de gorjeta para o garçom.
 
